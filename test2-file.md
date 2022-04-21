@@ -1,1 +1,1 @@
-[Link(a.com)]
+[link](a)
